@@ -1,0 +1,15 @@
+players/*
+worlds/*
+plugins/*
+bin/*
+timings/*
+*.log
+*.phar
+server.properties
+pocketmine.yml
+*.txt
+glowstone.yml
+crashdumps/*
+.idea/*
+Thumbs.db
+Desktop.ini
