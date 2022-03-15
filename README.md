@@ -12,9 +12,8 @@
 - Run via: open start.cmd (Windows)
 
 ## Donate
-### Lunarelly
 - QIWI: https://qiwi.com/n/LEMDY
-- BTC: bc1qjcxpmy45kfgak6qncwzwrqpad0gvwv5eq4act6
+- BTC: bc1q2nezj9lthjq9k8fkljvhlyr5n5szzc8vjj5ack
 
 ## Information
 - Minecraft PE version: 0.14.x
